@@ -1,0 +1,1 @@
+0 [main] INFO com.coding.log4j.TestForLog4j  - hello
