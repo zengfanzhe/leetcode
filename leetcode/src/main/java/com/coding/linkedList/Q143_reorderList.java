@@ -35,7 +35,7 @@ public class Q143_reorderList {
         System.out.println();
     }
 
-    private static ListNode create(@org.jetbrains.annotations.NotNull int[] ints) {
+    private static ListNode create(int[] ints) {
         ListNode dummyHead = new ListNode(0);
         ListNode p = dummyHead;
         for(int i=0; i<ints.length; i++){
