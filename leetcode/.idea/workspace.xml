@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1e4578b-54fe-4edc-9795-4665d02c2823" name="Default Changelist" comment="2020-06-18">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/breadthFirstSearch/Q698_PartitiontoKEqualSumSubsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/breadthFirstSearch/Q877_StoneGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/dp/Q1048_LongestStringChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/dp/Q1143_LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/dp/Q300_LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/geek/QHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/geek/QLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/geek/QString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/greedy/Q984_StringWithoutAAAorBBB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/hashTable/Q692_TopKFrequentWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/linkedList/ListNodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/linkedList/Q1019_NextGreaterNodeInLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/linkedList/Q25_ReverseNodesinkGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/math/Q1497_CheckIfArrayPairsAreDivisiblebykCheckIfArrayPairsAreDivisiblebyk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/binarySearch/Q287_FindtheDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/binarySearch/Q4_MedianofTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/linkedList/Q142_LinkedListCycleII.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/other/array/Arr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/recursion/Q17_LetterCombinationsofaPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/recursion/Q410_splitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/recursion/Q779_KthSymbolinGrammar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/tree/MirrorTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/twoPointers/Q845_LongestMountaininArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/coding/test/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/coding/test/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/coding/test/App$1.class" beforeDir="false" />
@@ -241,27 +225,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14256" />
-          <entry key="txt" value="21" />
+          <entry key="java" value="15851" />
+          <entry key="txt" value="32" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14256" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="JAVA" value="15851" />
+          <entry key="PLAIN_TEXT" value="32" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="73" />
+          <entry key="java" value="79" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="79" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -272,20 +256,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/greedy/Q984_StringWithoutAAAorBBB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/math/Q1497_CheckIfArrayPairsAreDivisiblebykCheckIfArrayPairsAreDivisiblebyk.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -304,7 +274,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/dp/Q300_LongestIncreasingSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="508">
@@ -314,52 +284,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/twoPointers/Q209_MinimumSizeSubarraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/binarySearch/Q4_MedianofTwoSortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/binarySearch/Q287_FindtheDuplicateNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/linkedList/Q142_LinkedListCycleII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/linkedList/ListNodeUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/twoPointers/Q532_KdiffPairsInAnArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/stream/IntStream.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
               <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/function/IntUnaryOperator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="48" column="30" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/function/IntBinaryOperator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="48" column="27" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/dp/Q1048_LongestStringChain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2662">
-              <caret line="149" column="15" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -399,10 +381,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/coding/string/Q1410_HtmlEntityParser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coding/string/Q1106_parsingaBooleanExpression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coding/design/Q1396_designUndergroundSystem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coding/tree/Q110_balancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coding/slidingwindow/Q1052_grumpyBookstoreOwner.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coding/backTracking/Q89_grayCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coding/string/Q72_editDistance.java" />
@@ -450,6 +428,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/coding/greedy/Q984_StringWithoutAAAorBBB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coding/math/Q1497_CheckIfArrayPairsAreDivisiblebykCheckIfArrayPairsAreDivisiblebyk.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coding/dp/Q300_LongestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coding/twoPointers/Q209_MinimumSizeSubarraySum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coding/binarySearch/Q4_MedianofTwoSortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coding/binarySearch/Q287_FindtheDuplicateNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coding/linkedList/Q142_LinkedListCycleII.java" />
       </list>
     </option>
   </component>
@@ -533,7 +515,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -546,7 +528,7 @@
     <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608822832411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609079843186" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -583,13 +565,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q300_LongestIncreasingSubsequence">
-    <configuration name="Q1497_CheckIfArrayPairsAreDivisiblebykCheckIfArrayPairsAreDivisiblebyk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.math.Q1497_CheckIfArrayPairsAreDivisiblebykCheckIfArrayPairsAreDivisiblebyk" />
+  <component name="RunManager" selected="Application.Q142_LinkedListCycleII">
+    <configuration name="Q142_LinkedListCycleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.linkedList.Q142_LinkedListCycleII" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.math.*" />
+          <option name="PATTERN" value="com.coding.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q209_MinimumSizeSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.twoPointers.Q209_MinimumSizeSubarraySum" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.twoPointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q287_FindtheDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.binarySearch.Q287_FindtheDuplicateNumber" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.binarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -610,38 +618,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q33_searchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.binarySearch.Q33_searchInRotatedSortedArray" />
+    <configuration name="Q4_MedianofTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coding.binarySearch.Q4_MedianofTwoSortedArrays" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.coding.binarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q692_TopKFrequentWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.hashTable.Q692_TopKFrequentWords" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.coding.hashTable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q984_StringWithoutAAAorBBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.greedy.Q984_StringWithoutAAAorBBB" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.coding.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -712,19 +694,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Q692_TopKFrequentWords" />
-      <item itemvalue="Application.Q984_StringWithoutAAAorBBB" />
-      <item itemvalue="Application.Q1497_CheckIfArrayPairsAreDivisiblebykCheckIfArrayPairsAreDivisiblebyk" />
-      <item itemvalue="Application.Q33_searchInRotatedSortedArray" />
       <item itemvalue="Application.Q300_LongestIncreasingSubsequence" />
+      <item itemvalue="Application.Q209_MinimumSizeSubarraySum" />
+      <item itemvalue="Application.Q4_MedianofTwoSortedArrays" />
+      <item itemvalue="Application.Q287_FindtheDuplicateNumber" />
+      <item itemvalue="Application.Q142_LinkedListCycleII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q142_LinkedListCycleII" />
+        <item itemvalue="Application.Q287_FindtheDuplicateNumber" />
+        <item itemvalue="Application.Q4_MedianofTwoSortedArrays" />
+        <item itemvalue="Application.Q209_MinimumSizeSubarraySum" />
         <item itemvalue="Application.Q300_LongestIncreasingSubsequence" />
-        <item itemvalue="Application.Q33_searchInRotatedSortedArray" />
-        <item itemvalue="Application.Q1497_CheckIfArrayPairsAreDivisiblebykCheckIfArrayPairsAreDivisiblebyk" />
-        <item itemvalue="Application.Q984_StringWithoutAAAorBBB" />
-        <item itemvalue="Application.Q692_TopKFrequentWords" />
       </list>
     </recent_temporary>
   </component>
@@ -853,7 +835,7 @@
       <workItem from="1607003084397" duration="19842000" />
       <workItem from="1607524395559" duration="4858000" />
       <workItem from="1607750521384" duration="3380000" />
-      <workItem from="1608391521522" duration="6447000" />
+      <workItem from="1608391521522" duration="15323000" />
     </task>
     <task id="LOCAL-00001" summary="just test">
       <created>1591622342225</created>
@@ -904,7 +886,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606404919405</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2020-12-24">
+      <created>1608822929260</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608822929261</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Q209">
+      <created>1608827664916</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608827664916</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -940,7 +936,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="511608000" />
+    <option name="totallyTimeSpent" value="520484000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -955,7 +951,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5492228" visible="true" weight="0.2602118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5492228" visible="true" weight="0.2602118" />
       <window_info id="Structure" order="1" sideWeight="0.4507772" side_tool="true" weight="0.21709532" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -964,8 +960,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22459017" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.13934426" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22459017" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3229508" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32786885" />
@@ -1031,7 +1027,9 @@
     <MESSAGE value="just test" />
     <MESSAGE value="just test2" />
     <MESSAGE value="2020-06-18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-06-18" />
+    <MESSAGE value="2020-12-24" />
+    <MESSAGE value="Q209" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q209" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1050,41 +1048,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/greedy/Q659_splitArrayintoConsecutiveSubsequences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="169" column="13" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/tree/TreeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/tree/Q1382_BalanceaBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/tree/Q1038_binarySearchTreetoGreaterSumTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1166,6 +1129,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12562">
           <caret line="600" column="22" selection-start-line="600" selection-start-column="22" selection-end-line="600" selection-end-column="22" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1271,13 +1238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/linkedList/ListNodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -1416,6 +1376,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/twoPointers/Q532_KdiffPairsInAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/twoPointers/Q209_MinimumSizeSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/binarySearch/Q4_MedianofTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/binarySearch/Q287_FindtheDuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/linkedList/ListNodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coding/linkedList/Q142_LinkedListCycleII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
         </state>
       </provider>
     </entry>
